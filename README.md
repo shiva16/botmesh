@@ -24,7 +24,7 @@ A mesh of efficient architectures of significant parts of a chatbot.
 -   Go
 -   C#
 
-##   NLP (Single Language - Python)
+##   NLP Framework (Single Language - Python)
 
 -   Dialog Flow    
 -   Rasa stack
